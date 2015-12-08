@@ -4,7 +4,13 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<meta name="author" content="Arne Ottens" />
-	<title>{{ page.title }}</title>
+	<title>
+		{% if page.title %}
+			{{ page.title }}
+		{% else %}
+			{{ site.name }}
+		{% endif %}
+	</title>
 	<link href="/css/bootstrap.css" rel="stylesheet">
 </head>
 <body>
