@@ -1699,6 +1699,7 @@ a.thumbnail.active {
   height: 0;
   padding: 0;
   overflow: hidden;
+  margin-bottom: 10px;
 }
 .embed-responsive .embed-responsive-item,
 .embed-responsive iframe,
@@ -2000,4 +2001,9 @@ a.thumbnail.active {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
 }
-
+.excerpt h2, .post h2 {
+  text-align: left;
+}
+.post {
+  margin-bottom: 100px;
+}

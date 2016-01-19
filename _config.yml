@@ -4,3 +4,5 @@ author: Arne Ottens
 author_email: ottensa@gmail.com
 baseurl:
 permalink: pretty
+gems:
+  - jemoji
