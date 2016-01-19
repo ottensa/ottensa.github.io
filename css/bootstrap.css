@@ -2007,3 +2007,6 @@ a.thumbnail.active {
 .post {
   margin-bottom: 100px;
 }
+.emoji {
+  display: inline;
+}
