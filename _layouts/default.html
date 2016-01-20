@@ -5,15 +5,46 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="author" content="Arne Ottens" />
-	{% if page.thumbnail %}<meta name="og:image" content="{{ page.thumbnail }}">{% endif %}
-	<title>
-		{% if page.title %}
-			{{ page.title }}
-		{% else %}
-			{{ site.name }}
-		{% endif %}
-	</title>
+	<meta name="author" content="{{ site.author }}" />
+
+	<meta name="og:author" content="{{ site.author }}">
+	<meta name="twitter:site" content="@ottens_a">
+
+	<meta name="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
+	<meta name="twitter:card" content="summary_large_image">
+
+{% if page.excerpt %}
+	<meta name="twitter:description" content="{{ page.excerpt }}" />
+{% else %}
+	<meta name="twitter:description" content="{{ site.name }} - {{ site.description }}" />
+{% endif %}
+
+{% if page.title %}
+	<meta name="og:title" content="{{ page.title }}">
+	<meta name="twitter:title" content="{{ page.title }}">
+{% else %}
+	<meta name="og:title" content="{{ site.name }}">
+	<meta name="twitter:title" content="{{ site.name }}">
+{% endif %}
+	
+{% if page.social %}
+	<meta name="og:image" content="{{ site.url | append: page.social }}">
+	<meta name="twitter:image" content="{{ site.url | append: page.social }}">
+{% else %}
+	<meta name="og:image" content="{{ site.url | append: '/social/blog.jpg' }}">
+	<meta name="twitter:image" content="{{ site.url | append: '/social/blog.jpg' }}">
+{% endif %}
+
+<meta name="og:url" content="{{ site.url | append: site.baseurl | append: page.url }}">
+<meta name="og:site_name" content="{{ site.name }} - {{ site.description }}">
+
+	
+{% if page.title %}
+	<title>{{ page.title }}</title>
+{% else %}
+	<title>{{ site.name }}</title>
+{% endif %}
+	
 	<link href="/css/bootstrap.css" rel="stylesheet">
 	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
 	<link rel="icon" href="/img/favicon.ico" type="image/x-icon">

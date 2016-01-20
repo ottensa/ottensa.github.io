@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Hallo Welt
-thumbnail: img/world.jpg
+thumbnail: /img/world.jpg
 location: Heidelberg/Frankfurt, Deutschland
 excerpt: Ja ja, typisch IT-ler, alles was die beginnen muss 'Hallo Welt' heißen. Hier geht's allerdings ausnahmsweiße nicht darum, dass dieser Blog das Licht der Welt erblickt oder ich eine neue Programmiersprache teste, sondern darum, dass ich selbst Hallo zur Welt sage und die nächste Zeit mit Reisen verbringen werden.
+social: /social/hallo-welt.jpg
 ---
 
 Ja ja, typisch IT-ler, alles was die beginnen muss 'Hallo Welt' heißen. Hier geht's allerdings ausnahmsweiße nicht darum, dass dieser Blog das Licht der Welt erblickt oder ich eine neue Programmiersprache teste, sondern darum, dass ich selbst Hallo zur Welt sage und die nächste Zeit mit Reisen verbringen werden. Es könnte auch, um eine gewisse Dramatik zu vermitteln, 'Wie alles begann' heißen, aber bei meinem Vorhaben hat - wenn man mal ehrlich ist - Dramatik nichts verloren!

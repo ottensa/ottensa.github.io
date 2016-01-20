@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Über Colombo nach Singapur
-thumbnail: img/singapur.jpg
+thumbnail: /img/singapur.jpg
 location: Kuala Lumpur, Malaysia
 excerpt: Dieser Blogpost erzählt die Geschichte von meinen letzten Stunden in Deutschland und dem weiten Weg über Colombo nach Singapur. Euch erwarten Hindernisse, Erlebnisse und diesmal auch ein paar mehr Bilder. Also los geht's, lesen und genießen!
 ---

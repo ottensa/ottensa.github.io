@@ -5,7 +5,7 @@ layout: default
 <div class="row teaser">
 	<div class="hidden-xs col-md-2 col-md-offset-3 thumbnail">
 		<a href="{{ post.url }}">
-			<img class="ao-thumbnail" src="{{ post.thumbnail }}"/>
+			<img class="ao-thumbnail" src="{{ site.url | append: post.thumbnail }}"/>
 		</a>
 	</div>
 	<div class="col-xs-12 col-md-4 excerpt">
