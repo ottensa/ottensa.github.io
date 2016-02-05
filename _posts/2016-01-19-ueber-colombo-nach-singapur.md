@@ -4,6 +4,7 @@ title: Über Colombo nach Singapur
 thumbnail: /img/singapur.jpg
 location: Kuala Lumpur, Malaysia
 excerpt: Dieser Blogpost erzählt die Geschichte von meinen letzten Stunden in Deutschland und dem weiten Weg über Colombo nach Singapur. Euch erwarten Hindernisse, Erlebnisse und diesmal auch ein paar mehr Bilder. Also los geht's, lesen und genießen!
+social: /social/singapur.jpg
 ---
 
 Dieser Blogpost erzählt die Geschichte von meinen letzten Stunden in Deutschland und dem weiten Weg über Colombo nach Singapur. Euch erwarten Hindernisse, Erlebnisse und diesmal auch ein paar mehr Bilder. Also los geht's, lesen und genießen!
@@ -34,7 +35,7 @@ Um 01:00 ging der Anschlussflug nach Singapur. In meiner Naivität hatte ich geh
 
 Nach der Ankunft im Hostel - die Öffentlichen in Singapur sind ein Traum und vor allem super günstig - durfte ich dann endlich schlafen :blush: So waren dann auch die ersten anderthalb Tage vorbei und ich habe meinen Mitbewohner kennengelernt. Ja, richtig, Singular. Es war zwar ein 6er-Dorm, allerdings haben wir es zu zweit bewohnt. Zumindest am Anfang, später war ich dann alleine und das Zimmer erweckte den Eindruck einer Zelle, daher auch nur ein Bild von außen :smile:
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/137810363@N07/23850683624/in/dateposted-public/" title="Hostel"><img src="https://farm2.staticflickr.com/1533/23850683624_f6d5416e9a_b.jpg" width="1024" height="768" alt="Hostel"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/137810363@N07/23850683624/in/dateposted-public/" title="Hostel"><img src="https://farm2.staticflickr.com/1533/23850683624_f6d5416e9a_b.jpg" width="1024" height="768" alt="Hostel"></a>
 
 Anyway, mein Teilzeit-Mitbewohner war Li aus Südkorea, der schon sieben Monate unterwegs war und noch 6 vor sich hat, ich sehe da gewisse Parallelen… Sein Hobby muss Youtube sein, denn er hat jede Nacht bis morgens 07:00 oder 08:00 dort irgendwelche Videos geschaut …
 
