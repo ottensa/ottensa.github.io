@@ -4,7 +4,7 @@ title: Thailand, die Erste
 thumbnail: /img/thailand-1.jpg
 location: Chiang Rai, Thailand
 excerpt: So, da ist meine Zeit in Malaysia auch schon wieder vorbei. Hatte das Land zwar gar nicht auf dem Schirm, es war aber grandios! Wie gut also, dass ich keinen festen Plan habe :) Weiter soll es jetzt in Thailand gehen und ich bin schon sehr gespannt!
-social: /social/thailand-01.jpg
+social: /social/thailand-1.jpg
 ---
 
 So, da ist meine Zeit in Malaysia auch schon wieder vorbei. Hatte das Land zwar gar nicht auf dem Schirm, es war aber grandios! Wie gut also, dass ich keinen festen Plan habe :smile: Weiter soll es jetzt in Thailand gehen und ich bin schon sehr gespannt!
