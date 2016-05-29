@@ -28,6 +28,7 @@ social: /social/thailand-2.jpg		// Bild, das bei Facebook angezeigt wird
 
 6) Upload
 '''
+git pull
 git add .
 git add *
 git commit -m "Nachricht"
