@@ -2,7 +2,7 @@
 layout: post
 title: Happy New Year
 thumbnail: /img/chiang-rai.jpg
-location: Mui Ne, Vietnam
+location: Dalat, Vietnam
 excerpt: 
 social: /social/chiang-rai.jpg
 ---
